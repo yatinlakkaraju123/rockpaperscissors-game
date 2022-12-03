@@ -1,6 +1,6 @@
 # this project simulates one player rock paper scissors game where your opponent is the computer
 import random
-print("enter\n1 for rock\n2 for scissors\n3 for paper\n4-1 to exit the game")
+print("enter\n1 for rock\n2 for scissors\n3 for paper\n-1 to exit the game")
 user_input = 0
 while(user_input!=-1):
     try:
